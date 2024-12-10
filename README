@@ -1,0 +1,13 @@
+/**
+USAGE: ./project <input-image> <output-image> <command-name> <command-args>
+
+SUPPORTED COMMANDS:
+  grayscale
+  blend <target image> <alpha value>
+  rotate-ccw
+  pointilism
+  blur <sigma>
+  saturate <scale>
+
+You will need a ppm viewer extension if you wish to view the i/o in an editor
+*/
